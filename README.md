@@ -2,6 +2,8 @@
 
 View the slides at https://smithara.github.io/SwarmDQW9_viresclient_presentation/viresclient.slides.html
 
+To generate the pdf go to https://smithara.github.io/SwarmDQW9_viresclient_presentation/viresclient.slides.html?print-pdf and print it as a pdf
+
 View the Jupyter notebook at https://nbviewer.jupyter.org/github/smithara/SwarmDQW9_viresclient_presentation/blob/gh-pages/viresclient.ipynb
 
 Use [RISE](https://rise.readthedocs.io) to run the presentation interactively, but will require a little setup:
