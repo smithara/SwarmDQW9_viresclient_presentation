@@ -24,4 +24,7 @@ Temporary requirements:
 ```
 conda install -c conda-forge rise --use-local
 pip install --user ~/SwarmPyFAC/.
+
+conda install -c pyviz holoviews bokeh hvplot
+jupyter labextension install @pyviz/jupyterlab_pyviz
 ```
